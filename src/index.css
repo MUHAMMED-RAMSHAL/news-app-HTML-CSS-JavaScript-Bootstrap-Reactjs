@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+.nav-link{
+  cursor: pointer;
+  font-weight: bold;
+}
+.nav-link:hover{
+   color: cyan;
+   transition: 0.5s;
+}
+.btn:hover{
+ background-color: rgb(19, 142, 19);
+ transition: 0.5s;
+}
